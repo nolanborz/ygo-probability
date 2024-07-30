@@ -1,7 +1,7 @@
 MONSTER_ARR = [
   "Ancient Gear Golem", "Ancient Gear Dark Golem", "Ancient Gear Dark Golem", "Ancient Gear Statue", "Ancient Gear Statue", "Ancient Gear Statue",
   "Ancient Gear Wyvern", "Ancient Gear Wyvern", "Ancient Gear Wyvern", "Ancient Gear Tanker", "Ancient Gear Tanker", "Ancient Gear Dragon",
-  "Maxx 'C'", "Maxx 'C'", "Maxx 'C'"
+  "Maxx \"C\"", "Maxx \"C\"", "Maxx \"C\""
 ]
 SPELL_ARR = [
   "Ancient Gear Advance", "Ancient Gear Advance", "Ancient Gear Advance", "Ancient Gear Catapult", "Ancient Gear Catapult",
