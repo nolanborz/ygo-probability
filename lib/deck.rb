@@ -55,12 +55,16 @@ class Deck
   def sample_hand(cards = 5)
     puts @cards.first(cards)
   end
+
   def draw(cards = 1)
     puts @cards.shift(cards)
   end
+
   def shuffle!
     @cards.shuffle!
   end
+
+  
 end
 
 ancient = Deck.new(MONSTER_ARR, SPELL_ARR, TRAP_ARR)
